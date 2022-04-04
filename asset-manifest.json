@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vballone/static/css/main.165db37c.css",
+    "main.js": "/vballone/static/js/main.34e02fb8.js",
+    "static/js/787.d1c8701e.chunk.js": "/vballone/static/js/787.d1c8701e.chunk.js",
+    "static/media/profile.jpg": "/vballone/static/media/profile.3b52c915f2d6c96f605f.jpg",
+    "index.html": "/vballone/index.html",
+    "main.165db37c.css.map": "/vballone/static/css/main.165db37c.css.map",
+    "main.34e02fb8.js.map": "/vballone/static/js/main.34e02fb8.js.map",
+    "787.d1c8701e.chunk.js.map": "/vballone/static/js/787.d1c8701e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165db37c.css",
+    "static/js/main.34e02fb8.js"
+  ]
+}
